@@ -112,8 +112,8 @@
         },
         {
             "label": "Drawing",
-            "x": -1274.5626,
-            "y": 1322.0393,
+            "x": 28.985334396362305,
+            "y": -608.61181640625,
             "id": "2",
             "attributes": {
                 "Description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.",
@@ -130,7 +130,7 @@
                 "Grad": "5"
             },
             "color": "rgb(63,177,125)",
-            "size": 19.090908
+            "size": 19.09090805053711
         },
         {
             "label": "Virtual Representation",
@@ -156,8 +156,8 @@
         },
         {
             "label": "Attributes",
-            "x": -2003.5211,
-            "y": 2112.3542,
+            "x": -1138.4649658203125,
+            "y": 736.6414794921875,
             "id": "0",
             "attributes": {
                 "Description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.",
@@ -174,7 +174,7 @@
                 "Grad": "4"
             },
             "color": "rgb(63,177,125)",
-            "size": 17.272728
+            "size": 17.272727966308594
         },
         {
             "label": "Causal Graph",
@@ -1256,8 +1256,8 @@
         },
         {
             "label": "Components",
-            "x": -1975.0544,
-            "y": 2241.7954,
+            "x": -946.0723266601562,
+            "y": 1054.14453125,
             "id": "1",
             "attributes": {
                 "Description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.",
@@ -1274,7 +1274,7 @@
                 "Grad": "10"
             },
             "color": "rgb(63,177,125)",
-            "size": 28.181818
+            "size": 28.18181800842285
         },
         {
             "label": "Enhanced Function-Means Model",
@@ -2978,7 +2978,7 @@
         },
         {
             "source": "35",
-            "target": "58",
+            "target": "52",
             "id": "174",
             "attributes": {},
             "color": "rgb(61,61,61)",
