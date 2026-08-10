@@ -1,6 +1,6 @@
 # Landscape of Product Models
 
-You can find the GitHub Pages Website under [https://model-landscape.github.io/website](https://model-landscape.github.io/website).
+You can find the GitHub Pages Website under [https://forschungslandkarte.github.io/website](https://forschungslandkarte.github.io/website).
 
 ## Description
 
