@@ -1,6 +1,6 @@
 {
-    "homepage": "https://Forschungslandkarte.github.io/website",
-    "name": "model-landscape",
+    "homepage": "https://forschungslandkarte.github.io/website",
+    "name": "forschungslandkarte",
     "private": true,
     "version": "0.0.0",
     "type": "module",
